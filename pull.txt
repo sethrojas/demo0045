@@ -1,1 +1,2 @@
 comando git para bajar los cmbios de la nube al computador
+cambio desde la web
